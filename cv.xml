@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resume PUBLIC "-//Sean Kelly//DTD Resume 1.5.1//EN"
+  "http://xmlresume.sourceforge.net/dtd/resume.dtd">
+
+<resume>
+  <header>
+    <name>
+      <firstname>Ivan</firstname>
+      <surname>Peevski</surname>
+    </name>
+    <!--<address>
+      <street>1/25 Greenhill Rd</street>
+      <city>Wayville</city>
+      <state>SA</state>
+      <postalCode>5034</postalCode>
+      <country>Australia</country>
+    </address>-->
+    <contact>
+      <phone>+61 4 3399 0800</phone>
+      <email>info@ipeevski.com</email>
+      <url>http://ipeevski.com/</url>
+    </contact>
+  </header>
+
+  <objective>
+    <para>Web Developer</para>
+  </objective>
+
+  <history>
+   
+    <job>
+      <jobtitle>Team Leader E-Business and Innovations</jobtitle>
+      <employer>
+      	Australian Rail Track Corporation
+      	<url>http://artc.com.au/</url></employer>
+      <period>
+				<from>
+					<date>
+						<month>May</month>
+						<year>2015</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						now
+					</date>
+				</to>
+      </period>
+      <description>
+				<para>Lead a team to maintain and deliver projects and applications to promote efficiency and innovation within the company</para>
+      </description>
+i			<projects>
+				<project>Artemis - Interactive map of all the live trains on our network with all their running details as well as dashboard with live running statistics.</project>
+		  </projects>
+    </job>
+
+    <job>
+      <jobtitle>Application Architect</jobtitle>
+      <employer>
+      	Australian Rail Track Corporation
+      	<url>http://artc.com.au/</url></employer>
+      <period>
+				<from>
+					<date>
+						<month>May</month>
+						<year>2011</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>May</month>
+						<year>2015</year>
+					</date>
+				</to>
+      </period>
+      <description>
+				<para>Working with .NET 3.5 on internal projects to support the organization with day to day activities (running and planning trains, incident management, track billing, etc). Using the company's MVC framework, complete with MS SQL stored procedures, Soap services and C# and VB.NET client applications.</para>
+      </description>
+i			<projects>
+				<project>Interstate Billing System - Designed and Implemented as a team a billing system to calculate charges and maintain contracts for above rail operators.</project>
+				<project>Train Management Applications - Working with .NET 3.5 on internal projects to support the organization with day to day activities (running and planning trains, incident management, etc). Using the company's MVC framework, complete with MS SQL stored procedures, Soap services and C# and VB.NET client applications.</project>
+				<project>Internal tools - designed a number of tools to automate and optimize employees' overall productivity</project>
+		  </projects>
+    </job>
+    
+    <job>
+      <jobtitle>Freelancing</jobtitle>
+      <employer>
+      	Self-employed
+      	<url>http://ipeevski.com/</url></employer>
+      <period>
+				<from>
+					<date>
+						<month>Aug</month>
+						<year>2009</year>
+					</date>
+				</from>
+				<to>
+					<date>now</date>
+				</to>
+      </period>
+      <description>
+				<para></para>
+      </description>
+			<projects>
+				<project>Flinders Online Events Calendar <url>http://flinders.edu.au/events/</url> - Symfony based PHP project to handle an event calendar and guest registrations, featuring a separate admin panel.</project>
+				<project>MyOmni TV <url>http://myomni.com.au/</url> - Developed a custom CMS for updating news, galleries and videos. Created a video competition, handling uploading videos via YouTube's API.</project>
+				<project>ZoneHigh <url>http://zonehigh.com/</url> - Joomla CMS based install with custom development to handle Paypal payments and Online Coaching Programme with events, videos and other content.</project>
+				<project>dotProject Custom Modules Development <url>http://dotproject.net/</url> - A number of custom modules for different clients in Australia and US.</project>
+				<project>Other custom development, including shopping cart and payment integration and OpenSource CMS modifications for Drupal, Joomla, Concrete5 and others.</project>
+		  </projects>
+    </job>
+    <job>
+      <jobtitle>CTO</jobtitle>
+      <employer>
+      	East Coast Publications
+      	<url>http://nerej.com/</url></employer>
+      <period>
+				<from>
+					<date>
+						<month>Aug</month>
+						<year>2007</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>Jul</month>
+						<year>2009</year>
+					</date>
+				</to>
+      </period>
+      <description>
+				<para></para>
+      </description>
+      <achievements>
+      	<achievement>
+      		Created an online version of the New England and New York Real Estate Journal. Export the weekly publication to XML then import it to a Database and copy the necessary images accross. Websites handle news comments, online subscriptions, spotlights presentations, custom advertising management solution and other custom features.
+      		</achievement>
+      	<achievement>Developed a Social network (including a video sharing site, profiles, calenendar of events and much more), using Zend Framework</achievement>
+      </achievements>
+			<projects>
+				<project>New England Real Estate Journal Online <url>http://nerej.com/</url></project>
+				<project>New York Real Estate Journal Online <url>http://nyrej.com/</url></project>
+				<project>Cremunity <url>http://cremunity.com/</url> - Custom developed Social Network in PHP (Zend Framework)</project>
+				<project>Subscription Database - rewrote their subscription database management program. Handles subscriptions, invoicing, payments and more.</project>
+				<project>Internal tools - designed a number of tools to automate and optimize employees' overall productivity</project>
+		  </projects>
+    </job>
+    
+		<job>
+			<jobtitle>Second in Command</jobtitle>
+			<employer>dotProject <url>http://dotproject.net/</url></employer>
+			<period>
+				<from>
+					<date>
+						<month>Oct</month>
+						<year>2005</year>
+					</date>
+				</from>
+				<to><date>now</date></to>
+      </period>
+      <achievements>
+				<achievement>Major contributions to the v2.0 of the projet, including converting to Smarty templating engine, implementing a DB abstraction layer, and hundreds of bug fixes</achievement>
+      </achievements>
+      <projects>
+				<project>dotProject</project>
+			</projects>
+    </job>
+    <job>
+      <jobtitle>Programmer</jobtitle>
+      <employer>
+      	Australian Medicines Handbook
+      	<url>http://amh.net.au/</url></employer>
+      <period>
+				<from>
+					<date>
+						<month>Oct</month>
+						<year>2006</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>Jun</month>
+						<year>2007</year>
+					</date>
+				</to>
+      </period>
+      <description>
+				<para></para>
+      </description>
+      <projects>
+				<project>SGML Converter - a tool to convert the AMH book from SGML into XHTML for their webbased version</project>
+				<project>AMH Website<url>http://www.amh.net.au/</url></project>
+				<project>pAMH - a mobile version of their core application using SuperWaba (a Java dialect)</project>
+      </projects>
+    </job>
+
+    <job>
+			<jobtitle>Software Architect</jobtitle>
+			<employer>National Centre for Vocational Education Research<url>http://www.ncver.edu.au/</url></employer>
+			<period>
+				<from>
+					<date>
+							<month>Jan</month>
+							<year>2006</year>
+					</date>
+				</from>
+				<to>
+					<date>
+							<month>Oct</month>
+							<year>2006</year>
+					</date>
+				</to>
+			</period>
+      <description>
+				<para></para>
+      </description>
+      <projects>
+      	<project>VOCED <url>http://voced.edu.au/</url> - Educational publications search engine (PHP)</project>
+      	<project>NCVER's Website <url>http://ncver.edu.au/</url> - Main website (PHP)</project>
+      	<project>Merlin - Internal Asset management website (JSP)</project>
+      </projects>
+    </job>
+    
+    <job>
+			<jobtitle>Software Developer</jobtitle>
+			<employer>Davtec <url>http://davtec.com.au/</url></employer>
+			<period>
+				<from>
+					<date>
+							<month>Sep</month>
+							<year>2004</year>
+					</date>
+				</from>
+				<to>
+					<date>
+							<month>Sep</month>
+							<year>2005</year>
+					</date>
+				</to>
+			</period>
+			<projects>
+					<project>Asterisk (PBX) web interface - creating an easy to manage, full blown PBX solution (PHP)</project>
+					<project>Worked on a linux based Windows Small Business Server replacement, using the same technologies for authentication and communication</project>
+			</projects>
+    </job>
+
+    <job>
+			<jobtitle>Tutor / Practical Supervisor</jobtitle>
+			<employer>University of South Australia <url>http://unisa.edu.au/</url></employer>
+			<period>
+				<from>
+					<date>
+							<month>Jul</month>
+							<year>2002</year>
+					</date>
+				</from>
+				<to>
+					<date>
+							<month>Dec</month>
+							<year>2005</year>
+					</date>
+				</to>
+			</period>
+			<achievements>
+				<achievement>Assisted professors with tutorials and practicals as well as marking assignments and exams</achievement>
+				<achievement>Developed assignment sample solutions</achievement>
+			</achievements>
+			<projects>
+				<project>Ontology based AI asssistant - a search and helper agent, using knowledge from the Cyc project</project>
+			</projects>
+    </job>
+  </history>
+
+
+  <academics>
+    <degrees>
+      <degree>
+				<level>B.Inf.Tech.</level>
+				<major>Bachelor of Information Technology (Computing and Multimedia with Honours)</major>
+				<period>
+					<from>
+						<date>
+							<month>Mar</month>
+							<year>2001</year>
+						</date>
+					</from>
+					<to>
+						<date>
+							<month>Jul</month>
+							<year>2005</year>
+						</date>
+					</to>
+				</period>
+		
+				<institution>
+					University of South Australia
+					<url>http://unisa.edu.au/</url></institution>
+				<gpa>
+					<score>A</score>
+					<note><para>Graduated with highest honors.</para></note>
+				</gpa>
+      </degree>
+    </degrees>
+  </academics>
+
+
+  <skillareas>
+  	<skillarea>
+  		<title>Web Development</title>
+  		<skillset>
+				<skill rating="10">PHP</skill>
+				<skill rating="8">ASP.NET</skill>
+				<skill rating="5">JSP</skill>
+        <skill rating="5">ColdFussion</skill>
+				<skill rating="10">(X)HTML</skill>
+				<skill rating="9">JavaScript</skill>
+				<skill rating="10">CSS</skill>
+				<skill rating="8">Flash</skill>
+  		</skillset>
+  	</skillarea>
+  	
+  	<skillarea>
+  		<title>Software development</title>
+  		<skillset>
+  			<skill rating="10">Java</skill>
+  			<skill rating="8">C/C++</skill>
+  			<skill rating="10">.NET - C#/VB.NET</skill>
+  			<skill rating="10">SQL - MySQL, MSSQL</skill>
+  			<skill rating="5">Lisp</skill>
+        <skill rating="8">Scripting - Shell Script, Make, Ant</skill>
+  		</skillset>
+  	</skillarea>
+  	
+  	<skillarea>
+  		<title>System Administration</title>
+  		<skillset>
+  			<skill rating="10">Linux (Gentoo/Ubuntu/CentOS/RedHat EL/OpenSUSE)</skill>
+  			<skill rating="10">Windows (NT/XP/Vista/7/SBS 2003/SBS 2008)</skill>
+        <skill rating="10">HTTP Server (Apache, Microsoft IIS)</skill>
+  		</skillset>
+  	</skillarea>
+  
+  	<skillarea>
+			<title>Graphic Design</title>
+			<skillset>
+				<skill rating="8">Flash</skill>
+				<skill rating="5">Photoshop</skill>
+				<skill rating="2">Illustrator</skill>
+				<skill rating="5">InDesign</skill>
+				<skill rating="5">3D Studio Max</skill>
+			</skillset>
+		</skillarea>
+  
+  	<skillarea>
+			<title>Social Skills</title>
+			<skillset>
+				<skill rating="10">Excellent Research Abilities</skill>
+				<skill rating="10">Superb Group Work and Leadership</skill>
+				<skill rating="10">Bulgarian Language</skill>
+			</skillset>
+		</skillarea>	
+	</skillareas>
+	
+<!--	
+  <referees>
+  	<referee>
+  		<name>
+  			<firstname>Graham</firstname>
+  			<surname>Kimber</surname>
+  		</name>
+  		<title>General Manager</title>
+  		<organization>Kimber Project Management</organization>
+  		<address>
+  			<street>25 Alfred St</street>
+  			<city>Norwell</city>
+  			<state>SA</state>
+  			<postalCode>5067</postalCode>
+  			<country>USA</country>
+  		</address>
+  		<contact>
+  			<phone>+61 4 1200 6886</phone></contact>
+  	</referee>
+  	<referee>
+  		<name>
+  			<firstname>Roland</firstname>
+  			<surname>Hopkins</surname>
+  		</name>
+  		<title>Owner</title>
+  		<organization>East Coast Publications</organization>
+  		<address>
+  			<street>17 Accord Park Drive, Suite 205</street>
+  			<city>Norwell</city>
+  			<state>MA</state>
+  			<postalCode>02061</postalCode>
+  			
+  			<country>USA</country>
+  		</address>
+  		<contact>
+  			<phone>+1 781 878 4540</phone></contact>
+  	</referee>
+  </referees>
+ -->
+  
+  <awards>
+  	<award>
+  		<title>Chancellor's Letters of Commendation</title>
+  		<organization>
+  			University of South Australia
+  			<url>http://unisa.edu.au/</url></organization>
+  		<date>
+  			<year>2004</year>
+  		</date>
+  	</award>
+  	<award>
+  		<title>Chancellor's Letters of Commendation</title>
+  		<organization>
+  			University of South Australia
+  			<url>http://unisa.edu.au/</url></organization>
+  		<date>
+  			<year>2003</year>
+  		</date>
+  	</award>
+  	<award>
+  		<title>Chancellor's Letters of Commendation</title>
+  		<organization>
+  			University of South Australia
+  			<url>http://unisa.edu.au/</url></organization>
+  		<date>
+  			<year>2002</year>
+  		</date>
+  	</award>
+  	<award>
+  		<title>Undergraduate Scholarship for Academic Excellence</title>
+  		<organization>
+  			University of South Australia
+  			<url>http://unisa.edu.au/</url></organization>
+  		<date>
+  			<year>2002</year>
+  		</date>
+  	</award>
+  	<award>
+  		<title>Dean's List</title>
+  		<organization>
+  			DeVry University
+  			<url>http://devry.edu/</url></organization>
+  		<date>
+  			<year>2001</year>
+  		</date>
+  	</award>
+  	<award>
+  		<title>Cum Laude Society</title>
+  		<organization>
+  			Kimball Union Academy
+  			<url>http://kua.org/</url></organization>
+  		<date>
+  			<year>2000</year>
+  		</date>
+  	</award>
+  	<award>
+  		<title>High Honour Roll and Effort Honour Roll</title>
+  		<organization>
+  			Kimball Union Academy
+  			<url>http://kua.org/</url></organization>
+  		<date>
+  			<year>2000</year>
+  		</date>
+  	</award>
+  	<award>
+  		<title>Academic Scholarship for Tuition and Board</title>
+  		<organization>
+  			Kimball Union Academy
+  			<url>http://kua.org/</url></organization>
+  		<date>
+  			<year>2000</year>
+  		</date>
+  	</award>
+  </awards>
+  
+  
+  <memberships>
+  	<title>title</title>
+    <membership>
+      <organization>
+        SourceForge
+        <url>http://sf.net/users/cyberhorse</url>
+      </organization>
+    </membership>
+    <membership>
+      <organization>
+        CoderBits
+        <url>https://coderbits.com/cyberhorse</url>
+      </organization>
+    </membership>
+    <membership>
+      <organization>
+        OpenHub
+        <url>https://www.openhub.net/accounts/cyberhorse</url>
+      </organization>
+    </membership>
+  </memberships>
+  
+  
+  <interests>
+  	<interest>
+  		<title>Books</title>
+  	</interest>
+  	<interest>
+  		<title>Psychology</title>
+  	</interest>
+  	<interest>
+  		<title>LAN Parties</title>
+  	</interest>
+  </interests>
+  
+  
+  <lastModified>
+  	<date>
+  		<month>Aug</month>
+  		<year>2014</year>
+  	</date>
+  </lastModified>
+
+  <copyright>
+    <year>2014</year>
+    <name>
+    	<firstname>Ivan</firstname>
+    	<surname>Peevski</surname>
+    </name>
+    <legalnotice>
+      <para>Copyright Reserved.</para>
+    </legalnotice>
+  </copyright>
+    
+</resume>

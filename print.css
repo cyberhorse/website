@@ -1,0 +1,5 @@
+#menu, .copyright { display: none; }
+address { 
+	left: 20px;
+	position: absolute;
+}
