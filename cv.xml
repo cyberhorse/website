@@ -29,27 +29,53 @@
   <history>
    
     <job>
+      <jobtitle>CTO</jobtitle>
+      <employer>
+      	Personify Care
+      	<url>https://personifycare.com/</url></employer>
+      <period>
+        <from>
+          <date>
+            <month>June</month>
+            <year>2014</year>
+          </date>
+        </from>
+        <to>
+          <date>
+            now
+          </date>
+        </to>
+      </period>
+      <description>
+				<para>Responsible for managing the technical team, product roadmap, overseeing the development, security and infrastructure for the project.</para>
+      </description>
+			<projects>
+				<project>Personify Care - Patient pre-admission assistant and post-op support</project>
+		  </projects>
+    </job>
+    <job>
       <jobtitle>Team Leader E-Business and Innovations</jobtitle>
       <employer>
       	Australian Rail Track Corporation
       	<url>http://artc.com.au/</url></employer>
       <period>
-				<from>
-					<date>
-						<month>May</month>
-						<year>2015</year>
-					</date>
-				</from>
-				<to>
-					<date>
-						now
-					</date>
-				</to>
+        <from>
+          <date>
+            <month>May</month>
+            <year>2015</year>
+          </date>
+        </from>
+        <to>
+          <date>
+            <month>March</month>
+            <year>2016</year>
+          </date>
+        </to>
       </period>
       <description>
 				<para>Lead a team to maintain and deliver projects and applications to promote efficiency and innovation within the company</para>
       </description>
-i			<projects>
+			<projects>
 				<project>Artemis - Interactive map of all the live trains on our network with all their running details as well as dashboard with live running statistics.</project>
 		  </projects>
     </job>
@@ -76,7 +102,7 @@ i			<projects>
       <description>
 				<para>Working with .NET 3.5 on internal projects to support the organization with day to day activities (running and planning trains, incident management, track billing, etc). Using the company's MVC framework, complete with MS SQL stored procedures, Soap services and C# and VB.NET client applications.</para>
       </description>
-i			<projects>
+			<projects>
 				<project>Interstate Billing System - Designed and Implemented as a team a billing system to calculate charges and maintain contracts for above rail operators.</project>
 				<project>Train Management Applications - Working with .NET 3.5 on internal projects to support the organization with day to day activities (running and planning trains, incident management, etc). Using the company's MVC framework, complete with MS SQL stored procedures, Soap services and C# and VB.NET client applications.</project>
 				<project>Internal tools - designed a number of tools to automate and optimize employees' overall productivity</project>
@@ -326,7 +352,7 @@ i			<projects>
   			<skill rating="10">Java</skill>
   			<skill rating="8">C/C++</skill>
   			<skill rating="10">.NET - C#/VB.NET</skill>
-  			<skill rating="10">SQL - MySQL, MSSQL</skill>
+  			<skill rating="10">SQL - MySQL/MariaDB, MSSQL</skill>
   			<skill rating="5">Lisp</skill>
         <skill rating="8">Scripting - Shell Script, Make, Ant</skill>
   		</skillset>
@@ -337,7 +363,7 @@ i			<projects>
   		<skillset>
   			<skill rating="10">Linux (Gentoo/Ubuntu/CentOS/RedHat EL/OpenSUSE)</skill>
   			<skill rating="10">Windows (NT/XP/Vista/7/SBS 2003/SBS 2008)</skill>
-        <skill rating="10">HTTP Server (Apache, Microsoft IIS)</skill>
+        <skill rating="10">HTTP Server (Nginx, Apache, Microsoft IIS)</skill>
   		</skillset>
   	</skillarea>
   
